@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparativeEstimation", "ComparativeEstimation\ComparativeEstimation.csproj", "{7FAB7100-33B4-4BC5-8563-6C2D853EA5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailChecker", "EmailChecker\EmailChecker.csproj", "{58BCC3BF-C990-495E-8F67-2F8680C6E9DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{7059CC67-95A8-418F-AC9F-828C60D286CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbProvider", "DbProvider\DbProvider.csproj", "{3619AE5C-47B7-4770-B459-9F26FA2CB038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FAB7100-33B4-4BC5-8563-6C2D853EA5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAB7100-33B4-4BC5-8563-6C2D853EA5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAB7100-33B4-4BC5-8563-6C2D853EA5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAB7100-33B4-4BC5-8563-6C2D853EA5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58BCC3BF-C990-495E-8F67-2F8680C6E9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BCC3BF-C990-495E-8F67-2F8680C6E9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BCC3BF-C990-495E-8F67-2F8680C6E9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BCC3BF-C990-495E-8F67-2F8680C6E9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7059CC67-95A8-418F-AC9F-828C60D286CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7059CC67-95A8-418F-AC9F-828C60D286CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7059CC67-95A8-418F-AC9F-828C60D286CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7059CC67-95A8-418F-AC9F-828C60D286CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3619AE5C-47B7-4770-B459-9F26FA2CB038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3619AE5C-47B7-4770-B459-9F26FA2CB038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3619AE5C-47B7-4770-B459-9F26FA2CB038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3619AE5C-47B7-4770-B459-9F26FA2CB038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://cptfs2013:8080/tfs/spielwiesecollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ComparativeEstimation\\ComparativeEstimation.csproj
+		SccProjectName1 = ComparativeEstimation
+		SccLocalPath1 = ComparativeEstimation
+		SccProjectUniqueName2 = EmailChecker\\EmailChecker.csproj
+		SccProjectName2 = EmailChecker
+		SccLocalPath2 = EmailChecker
+		SccProjectUniqueName3 = Contracts\\Contracts.csproj
+		SccProjectName3 = Contracts
+		SccLocalPath3 = Contracts
+		SccProjectUniqueName4 = DbProvider\\DbProvider.csproj
+		SccProjectName4 = DbProvider
+		SccLocalPath4 = DbProvider
+	EndGlobalSection
+EndGlobal

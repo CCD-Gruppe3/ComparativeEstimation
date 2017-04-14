@@ -1,0 +1,11 @@
+﻿{
+"$type":"ComparativeEstimation.Project, ComparativeEstimation",
+"Id":"Project_1",
+"Number":1234,
+"Title":"NewChart without MutliDim",
+"Email":"jo@cp.ag",
+"UserStories":
+[{"$type":"ComparativeEstimation.UserStory, ComparativeEstimation","Id":1,"Title":"Blaa"},
+{"$type":"ComparativeEstimation.UserStory, ComparativeEstimation","Id":2,"Title":"Blubb"},
+{"$type":"ComparativeEstimation.UserStory, ComparativeEstimation","Id":3,"Title":"Laber"},
+{"$type":"ComparativeEstimation.UserStory, ComparativeEstimation","Id":4,"Title":"Rhabarber"}]}
